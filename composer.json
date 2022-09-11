@@ -1,5 +1,5 @@
 {
-    "name": "ourcodeworld/name-that-color",
+    "name": "nautonk/name-that-color",
     "description": "A non-official PHP port of the NTC JS library to find out the name of the closest matching color.",
     "type": "library",
     "require": {
